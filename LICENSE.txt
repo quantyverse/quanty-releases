@@ -1,0 +1,12 @@
+Copyright (c) 2025 Thomas Bernhard - Quantyverse
+
+This software is provided in executable form only. You are allowed to use and distribute this software without modification for personal, non-commercial purposes.
+
+You are not permitted to:
+- Modify, reverse engineer, or decompile this software.
+- Use it for commercial purposes without explicit written permission.
+- Redistribute modified versions of this software.
+
+This software is provided "as is", without any warranty of any kind. Use at your own risk.
+
+All rights reserved.
