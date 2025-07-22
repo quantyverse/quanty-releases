@@ -1,4 +1,4 @@
-Copyright (c) 2025 Max Mustermann – ACME Software
+Copyright (c) 2025 Thomas Bernhard - Quantyverse
 
 This software is provided in executable form only. You are allowed to use this software for personal, non-commercial purposes only.
 
