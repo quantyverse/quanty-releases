@@ -1,12 +1,44 @@
 Copyright (c) 2025 Thomas Bernhard - Quantyverse
 
-This software is provided in executable form only. You are allowed to use this software for personal, non-commercial purposes only.
+This End User License Agreement ("EULA") is a legal agreement between you ("User") and the developer of Quanty ("Provider"). By downloading, installing, or using the software, you agree to be bound by the terms of this EULA.
 
-You are not permitted to:
-- Modify, reverse engineer, or decompile this software.
-- Distribute, copy, upload, or share this software in any form.
-- Use this software for commercial purposes without explicit written permission.
-- Redistribute modified or unmodified versions of this software.
+1. License Grant
+The Provider grants you a personal, non-exclusive, non-transferable, and revocable license to use this software on one or more of your devices, solely in accordance with the terms of this EULA.
+
+2. Usage
+You may use the software for personal or professional purposes.
+
+3. Prohibited Actions
+You are strictly prohibited from:
+
+selling, redistributing, leasing, or making the software publicly available, in whole or in part,
+distributing the software under a different name or in modified form ("rebranding"),
+copying the software except for personal backup purposes,
+reverse engineering, decompiling, or modifying the software, unless explicitly permitted by applicable law.
+
+4. Ownership
+All copyrights, trademarks, and other intellectual property rights in the software remain the sole property of the Provider. This EULA does not transfer any rights to you other than the limited usage rights expressly granted herein.
+
+5. Updates and Modifications
+The Provider reserves the right to update or modify the software at any time. This EULA also applies to future versions of the software unless accompanied by a separate agreement.
+
+6. Data and Privacy
+The use of this software is also subject to the terms of the Quanty Privacy Policy. The policy explains how data is handled and can be reviewed at https://quantyverse.ai/privacy.
+
+7. Termination
+This EULA is effective until terminated. Your rights under this license will terminate automatically and without notice from the Provider if you fail to comply with any term of this EULA. Upon termination, you must cease all use of the software and destroy all copies, full or partial, of the software.
+
+8. Disclaimer of Warranty and Limitation of Liability
+The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the Provider be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage. The entire risk as to the quality and performance of the software is with you.
+
+9. Governing Law
+This agreement shall be governed by and construed in accordance with the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG).
+
+10. Severability
+If any provision of this EULA is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. Amendments or modifications to this EULA must be made in writing.
+
+Contact
+For questions regarding this license or the software, please contact: thomas@quantyverse.com 
 
 This software is provided "as is", without any warranty of any kind. Use at your own risk.
 
